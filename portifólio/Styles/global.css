@@ -1,0 +1,81 @@
+:root {
+  --background: #E7E7E7;
+  --white: #FFFFFF;
+  --black: #000000;
+  --gray: #646464;
+  --gray-700: #323232;
+  --purple: #2D0C5E;
+  --light-purple: #5C16C5;
+  --yellow: #D18000;
+  --blue: #0000FF;
+  --primary: #4F3ACF;
+  --secondary: #0C2026;
+  --text: #5F5F5F;
+  --border: #B8B8B8;
+  --shadow: #aca8a8;
+  --link: #333333;
+  --text-techs: #C1C1C1;
+}
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+main {
+  
+  max-width: calc(1136px + 2rem);
+  padding: 0 1rem;
+  margin: 0 auto;
+}
+
+body, button {
+font-family: 'Inter', 'Roboto', sans-serif;
+}
+
+@media (max-width: 1080px) {
+:root {
+  font-size: 93.5%;
+  }
+}
+
+@media (max-width: 768px) {
+:root {
+  font-size: 87.5%;
+  }
+}
+
+@keyframes smoothscroll1 {
+  from, to {
+    scroll-behavior: smooth;
+  }
+}
+
+@keyframes smoothscroll2 {
+  from, to {
+    scroll-behavior: smooth;
+  }
+}
+
+html {
+  animation: smoothscroll1 60s;
+}
+
+html:focus-within {
+  animation-name: smoothscroll2;
+  scroll-behavior: smooth;
+}
+
+#home {
+  margin-top: 1vh;
+}
+
+#techs {
+  margin-top: 1vh;
+}
+
+#contato {
+  margin-top: 1vh;
+}

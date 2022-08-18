@@ -1,0 +1,57 @@
+.hail {
+  display: flex;
+  height: calc(100vh - 4rem);
+  align-items: center;
+}
+
+.dev-info h1{
+  font-size: 3rem;
+  margin-bottom: 1rem;
+
+}
+
+.dev-info h1 span{
+  color: var(--primary);
+}
+
+.dev-info p{
+  max-width: 28rem;
+  color: var(--text);
+  font-size: 1.25em;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  margin: 3rem 0 4rem;
+}
+
+.dev-info a {
+  display: block;
+  background: var(--primary);
+  color: var(--white);
+  font-size: 1.25em;
+  width: 16.75rem;
+  border-radius: 8px;
+  transition: color 0.2s;
+  text-decoration: none;
+  text-align: center;
+  padding: 1rem;
+  transition: filter 0.2s;
+
+}
+
+.dev-info a:hover {
+  filter: brightness(125%);
+}
+
+.foto {
+  margin-left: 7rem;
+  rotate: 7deg;
+  background: var(--secondary);
+
+}
+
+.hail img {
+  width: 21.5rem;
+  rotate: -7deg;
+  box-shadow:
+    2px 2px 4px var(--shadow);
+}
