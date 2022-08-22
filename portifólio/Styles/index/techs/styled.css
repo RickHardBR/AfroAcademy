@@ -1,71 +1,76 @@
-.techs {
-  display: grid;
-  gap: 0.5em;
-  max-width: calc(1136px + 2rem);
-  margin: 0 auto;
-  padding: 1rem;
-  
+.techs-container {
+  border-top: 1px solid var(--border);
+  padding: 4.5rem 0;
+  cursor: default;
 } 
 
 .techs-content {
-  display: flex;
-  align-items: center;
-  flex-flow: row wrap;
-  gap: 1rem;
+  margin-top: 3rem;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2.5rem;
 }
 
-.techs nav .tech{
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-  height: auto;
-}
-
-.techs h1 {
-  color: black;
-  font-size: 2rem;
-  font-weight: 500;
-  margin-bottom: 3.5rem;
-}
-
-.techs .tech .content{
-  display: block;
-  width: 15.5rem;
-  height: auto;
-  font-size: 1rem;
-  font-weight: 500;
-  padding: 0.5rem;
+.techs-content .card-tech {
+  position: relative;
   border: 1px solid var(--border);
-  border-radius: 0.5rem;
-  text-align: justify;
+  border-radius: 16px;
+  min-width: 15rem;
+  max-height: 15rem;
+  padding: 1.5rem;
+  transition: all 0.3s ease-in-out;
 }
 
-.techs .tech h2 {
-  margin-top: -40px;
+.techs-content .card-tech h3 {
   font-size: 1.5rem;
-  font-weight: 600;
   margin-bottom: 2rem;
 }
 
-.techs .tech .content:hover{
+.techs-content .card-tech p {
+  margin-top: 2rem;
+}
+
+.techs-content .card-tech:hover {
   background-color: var(--primary);
-  color: var(--text-techs);
-}
-
-.techs .tech .content:hover h2{
   color: var(--white);
+  border: var(--primary);
+  transform: translateY(-1rem);
 }
 
-/* .techs .tech .content img{
-  position: relative;
-  width: 72px;
-  height: 72px;
-  right: 0px;
-  top: -40px;
-  Left:200px;
-} */
-
-.techs .tech .content img{
-  width: 5.2rem;
-  transform: translate(11.75rem, -4rem)
+.techs-content .card-tech:hover p {
+  color: var(--text-techs);
+ 
 }
+
+.techs-content .card-tech img {
+  width: 4.5rem;
+  height: 4.5rem;
+  object-fit: contain;
+  position: absolute; 
+  top: -2.5rem;
+  right: -1.75rem;
+
+
+  /* transform: translate(11.75rem, -4rem)  */
+} 
+
+@media screen and (max-width: 975px){
+
+  .techs-content {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.5rem;
+    margin-right: 1rem;
+  }
+}
+
+@media screen and (max-width: 422px){
+
+  .techs-content {
+     grid-template-columns: repeat(1, 1fr);
+    gap: 2.5rem;
+  }
+}
+
+
+
+ 

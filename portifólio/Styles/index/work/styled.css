@@ -25,17 +25,12 @@ nav {
   height: auto;
 }
 
-.work h1 {
-  font-size: 3rem;
+.work h2 {
+  font-size: 2.5rem;
   margin-bottom: 1rem;
 }
 
-.work h1 span {
-  color: var(--primary);
-}
-
 .work p {
-  color: var(--text);
   font-size: 1.25em;
   font-weight: 500;
   margin-bottom: 1rem;

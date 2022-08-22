@@ -35,6 +35,18 @@ body, button {
 font-family: 'Inter', 'Roboto', sans-serif;
 }
 
+h2 {
+ font-size: 2.5rem;
+}
+
+h2 span {
+  color: var(--primary);
+}
+
+p {
+  color: var(--text);
+}
+
 @media (max-width: 1080px) {
 :root {
   font-size: 93.5%;
