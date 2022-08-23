@@ -58,3 +58,9 @@
     
   }
 }
+
+@media screen and (max-width: 522px){
+  .header{
+    height: 60px;
+  }
+}
