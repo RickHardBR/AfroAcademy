@@ -1,16 +1,29 @@
 .header{
+  position: sticky;
+  top: 0;
+  height: 30px;
+  background-color: var(--white);
   display: flex;
   justify-content: space-between;
   align-items: center;
   max-width: calc(1136px + 2rem);
   margin: 0 auto;
   padding: 1rem;
+  z-index: 10;
+  background-color: var(--white);
 }
 
 .header .logo img {
   width: 13rem;
+  position: fixed;
+  top: 5px;
 }
 
+.nav{
+  position: sticky;
+  top: 5px;
+  
+}
 .header nav a {
   font-weight: 500;
   color: var(--link);
@@ -38,6 +51,7 @@
   .header .logo img {
     width: 20rem;
     margin-left: 20px;
+    position: relative;
   }
   .header nav {
     display: none;

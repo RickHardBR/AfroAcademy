@@ -49,9 +49,6 @@
   position: absolute; 
   top: -2.5rem;
   right: -1.75rem;
-
-
-  /* transform: translate(11.75rem, -4rem)  */
 } 
 
 @media screen and (max-width: 975px){

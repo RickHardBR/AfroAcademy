@@ -1,4 +1,5 @@
 .hail {
+  border-top: none;
   display: flex;
   height: calc(100vh - 4rem);
   align-items: center;
@@ -59,8 +60,31 @@
   box-shadow: 4px 4px 4px var(--shadow);
 }
 
+
+.container-image:hover {
+  width: 21.75rem;
+  height: 21.75rem;
+  transform:rotate(-7deg);
+  border-radius: 5px;
+  box-shadow: 4px 4px 4px var(--shadow);
+  transition: all 0.3s ease-in-out;
+}
+
+.container-image img:hover {
+  width: 21.75rem;
+  height: 21.75rem;
+  border-radius: 5px;
+  box-shadow: 4px 4px 4px var(--shadow);
+  transform:rotate(7deg);
+  transition: all 0.3s ease-in-out;
+}
+
 @media screen and (max-width: 975px){
   .container-image{
     display: none;
   }
+  .dec-info {
+		align-items: center;
+		text-align: center;
+	}
 }
