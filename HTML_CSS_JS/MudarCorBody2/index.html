@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./Style/styled.css" />
+  <title>Mudando a cor do Body</title>
+</head>
+<body>
+<h1 class="Title"> Mudando a cor da página</h1>
+<div class="container-bottons">
+    <div class="bottons-container">
+        <button
+            class="bottons"
+            id="color-btn-black"
+            type="button"
+            onclick={changeColor('var(--black)')}>
+            BLACK
+        </button>
+    </div>
+    <div class="bottons-container">
+        <button
+            class="bottons"
+            id="color-btn-red"
+            type="button"
+            onclick={changeColor('var(--red)')}>
+            RED
+        </button>
+    </div>
+    <div class="bottons-container">
+        <button
+            class="bottons"
+            id="color-btn-blue"
+            type="button"
+            onclick={changeColor('var(--blue)')}>
+            BLUE
+        </button>
+    </div>
+    <div class="bottons-container">
+        <button
+            class="bottons"
+            id="color-btn-white"
+            type="button"
+            onclick={changeColor('var(--white)')}>
+            WHITE
+        </button>
+    </div>
+    
+</div>
+<div class="bottons-container">
+
+</div>
+<script src="./script.js"></script>
+</body>
+</html>

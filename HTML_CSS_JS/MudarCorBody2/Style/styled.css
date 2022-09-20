@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Lato:wght@300;400&family=Montserrat:wght@400;500;700&family=Poppins:wght@500&family=Roboto:wght@500&family=Source+Code+Pro:wght@600&display=swap');
+
+:root {
+  --white: #FFFFFF;
+  --black: #000000;
+  --red: #ff0000;
+  --blue: #0000ff;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+h1{
+  font-family: roboto;
+  text-align: center;
+  margin: 40px 20px;
+}
+.container-bottons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  
+  width: 10rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.bottons {
+  width: 5rem;
+  height: 3rem;
+  border-radius: 5px;
+  margin: 5px 5px;
+  border:none;
+  cursor: pointer;
+}
+
+.bottons-container .bottons{
+  box-shadow: 4px 4px 4px #3e3c3c;
+}
+
+.bottons#color-btn-black{
+  background-color: #2b2a2a;
+  color: var(--white);
+  
+}
+
+.bottons#color-btn-red{
+  background-color: var(--red);
+  color: var(--white);
+}
+
+.bottons#color-btn-blue {
+  background-color: var(--blue);
+  color: var(--white);
+}

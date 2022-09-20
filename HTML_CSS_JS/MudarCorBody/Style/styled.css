@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Lato:wght@300;400&family=Montserrat:wght@400;500;700&family=Poppins:wght@500&family=Roboto:wght@500&family=Source+Code+Pro:wght@600&display=swap');
+
+:root {
+  --background-color: var(--black);
+  --white: #FFFFFF;
+  --black: #000000;
+  --red: #ff0000;
+  --blue: #0000ff;
+  --yellow: #FFFF00;
+  --lemon: #2aea0c;
+  --orange: #e1641c;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+h1{
+  font-family: roboto;
+  text-align: center;
+  margin: 40px 20px;
+}
+.container-bottons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  
+  width: 30rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.bottons {
+  width: 15rem;
+  height: 3rem;
+  border-radius: 5px;
+  margin: 5px 5px;
+  border:none;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.bottons-container .bottons{
+  box-shadow: 4px 4px 4px #3e3c3c;
+}
+
+.bottons#changeColor{
+  background-color: var(--orange);
+  color: var(--black);
+  
+}
+
+.bottons#squares{
+  background-color: var(--red);
+  color: var(--white);
+}
+
+.bottons#circles {
+  background-color: var(--blue);
+  color: var(--white);
+}
+
+.bottons#lemons {
+  background-color: var(--lemon);
+  color: var(--black);
+}
+
+
+.align-divs {
+  display: flex;
+  justify-content: center;
+}
+
+.square, .circle, .lemon{
+  margin: 10px;
+}
+
+/* .square{
+  border: 3px solid var(--white);
+  background-color: var(--red)
+}
+
+.circle{
+  border: 3px solid var(--white);
+  background-color: var(--blue)
+}
+
+.lemon{
+  border: 3px solid var(--lemon);
+  background-color: var(--yellow)
+} */
