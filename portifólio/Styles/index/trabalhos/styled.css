@@ -1,7 +1,13 @@
+.contatos-div{
+  display: inline;
+  justify-content: center;
+}
+
 .works-container {
   border-top: none;
   padding: 4.5rem 0;
   cursor: default;
+  align-items: center;
 } 
 
 .works-content {
