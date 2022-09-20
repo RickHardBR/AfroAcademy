@@ -4,6 +4,7 @@ Repositório com os trabalhos feitos durante o BootCamp AfroAcademy
 
 * [Indice](#funciona)
     * [Portifólio](https://github.com/RickHardBR/AfroAcademy/tree/master/portifolio)
+    * [Desafio01](https://github.com/RickHardBR/AfroAcademy/tree/master/desafio01)
 
 ## 💛 Contato
 
