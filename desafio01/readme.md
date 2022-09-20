@@ -5,7 +5,8 @@
 
 
 * [Indice](#funciona)
-    * [🚀 - Acesse a aplicação aqui](https://rickhardbr.github.io/AfroAcademy/desafio01/)
+    * [🚀 - Acesse a aplicação aqui 1](https://rickhardbr.github.io/AfroAcademy/HTML_CSS_JS/MudarCorBody/)
+    * [🚀 - Acesse a aplicação aqui 2](https://rickhardbr.github.io/AfroAcademy/HTML_CSS_JS/MudarCorBody2/)
     * [🛠️ - Tecnologias empregadas](#tecnologia)
     * [🖼️ - Imagens](#imagens)
 
@@ -21,6 +22,7 @@
 
 - HTML
 - CSS
+- JavaScript
 
 #
 
