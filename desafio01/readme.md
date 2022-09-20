@@ -5,8 +5,7 @@
 
 
 * [Indice](#funciona)
-    * [🚀 - Acesse a aplicação aqui 1](https://rickhardbr.github.io/AfroAcademy/HTML_CSS_JS/MudarCorBody/)
-    * [🚀 - Acesse a aplicação aqui 2](https://rickhardbr.github.io/AfroAcademy/HTML_CSS_JS/MudarCorBody2/)
+    * [🚀 - Acesse a aplicação aqui](https://rickhardbr.github.io/AfroAcademy/desafio01/)
     * [🛠️ - Tecnologias empregadas](#tecnologia)
     * [🖼️ - Imagens](#imagens)
 
@@ -22,7 +21,6 @@
 
 - HTML
 - CSS
-- JavaScript
 
 #
 
@@ -35,4 +33,4 @@
 
 ## 📧rickhard@bol.com.br
 
-<h4 align="right"><a href="#topo">⬆️Topo</a></h4>
+<h4 align="right"><a href="#topo">Topo</a></h4>

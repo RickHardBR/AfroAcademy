@@ -4,9 +4,10 @@ Repositório com os trabalhos feitos durante o BootCamp AfroAcademy
 [🔙 - Voltar para Repositório Principal](https://github.com/RickHardBR/AfroAcademy)
 
 * [Indice](#funciona)
-    * [Portifólio](https://github.com/RickHardBR/AfroAcademy/tree/master/portifólio)
-    * [Desafio01](https://github.com/RickHardBR/AfroAcademy/tree/master/desafio01)
-    * [Desafio03](https://github.com/RickHardBR/AfroAcademy/tree/master/desafio03)
+    * [🚀 - Acesse a aplicação aqui 1](https://rickhardbr.github.io/AfroAcademy/HTML_CSS_JS/MudarCorBody/)
+    * [🚀 - Acesse a aplicação aqui 2](https://rickhardbr.github.io/AfroAcademy/HTML_CSS_JS/MudarCorBody2/)
+    * [🛠️ - Tecnologias empregadas](#tecnologia)
+    * [🖼️ - Imagens](#imagens)
 
 ## 💛 Contato
 
