@@ -3,7 +3,7 @@ Este foi o projeto do **Portifólio** desenvolvido durante o BootCamp da **AfroA
 
 
 * [Indice](#funciona)
-    * [🚀 - Acesse meu portifólio aqui](https://rickhardbr.github.io/AfroAcademy/portif%C3%B3lio/)
+    * [🚀 - Acesse meu portifólio aqui](https://rickhardbr.github.io/AfroAcademy/portifolio/)
     * [🛠️ - Tecnologias empregadas](#tecnologia)
     * [🖼️ - Imagens](#imagens)
 
