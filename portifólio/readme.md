@@ -1,5 +1,5 @@
-<h1 id="topo">AfroAcademy</h1>
-Repositório com os trabalhos feitos durante o BootCamp AfroAcademy
+<h1 id="topo">Portifólio - AfroAcademy</h1>
+Este foi o projeto do **Portifólio** desenvolvido durante o BootCamp da **AfroAcademy**
 
 
 * [Indice](#funciona)
