@@ -15,7 +15,7 @@ Este foi o projeto do **Portifólio** desenvolvido durante o BootCamp da **AfroA
 
 #
 
-<h2 id="Tecnologias">🛠️ - Tecnologias empregadas</h2>
+<h2 id="Tecnologia">🛠️ - Tecnologias empregadas</h2>
 
 - HTML
 - CSS
