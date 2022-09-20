@@ -28,14 +28,14 @@ Este foi o projeto do **Portifólio** desenvolvido durante o BootCamp da **AfroA
 
 ## Home
 <p align="center">
-<img width="500" src="https://user-images.githubusercontent.com/89301596/191340129-e5577b00-e13a-49af-9ec8-9d12696382b1.png">
+<img width="650" src="https://user-images.githubusercontent.com/89301596/191340129-e5577b00-e13a-49af-9ec8-9d12696382b1.png">
 </p>
 
 <h4 align="right"><a href="#topo">Topo</a></h4>
 
 ## Techs e Contatos
 <p align="center">
-<img width="500" src="https://user-images.githubusercontent.com/89301596/191340476-8248e34d-8409-436b-8d5a-39ace3f7f67f.png">
+<img width="650" src="https://user-images.githubusercontent.com/89301596/191340476-8248e34d-8409-436b-8d5a-39ace3f7f67f.png">
 </p>
 
 <h4 align="right"><a href="#topo">Topo</a></h4>
@@ -43,7 +43,7 @@ Este foi o projeto do **Portifólio** desenvolvido durante o BootCamp da **AfroA
 ## Meus Trabalhos (em desenvolvimento...)
 
 <p align="center">
-<img width="500" src="https://user-images.githubusercontent.com/89301596/191342304-4ab66755-afe5-46c6-86bf-19dd2ac1b776.png">
+<img width="650" src="https://user-images.githubusercontent.com/89301596/191342304-4ab66755-afe5-46c6-86bf-19dd2ac1b776.png">
 </p>
 
 <h4 align="right"><a href="#topo">Topo</a></h4>
