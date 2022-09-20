@@ -3,8 +3,9 @@ Este foi o projeto do **Portifólio** desenvolvido durante o BootCamp da **AfroA
 
 
 * [Indice](#funciona)
-    * [🚀Acesse meu portifólio aqui](https://rickhardbr.github.io/AfroAcademy/portif%C3%B3lio/)
-    * [Imagens](#imagens)
+    * [🚀 - Acesse meu portifólio aqui](https://rickhardbr.github.io/AfroAcademy/portif%C3%B3lio/)
+    * [🛠️ - Tecnologias empregadas](#tecnologia)
+    * [🖼️ - Imagens](#imagens)
 
 ## 💛 Contato
 
@@ -12,23 +13,34 @@ Este foi o projeto do **Portifólio** desenvolvido durante o BootCamp da **AfroA
 
 ## 📧rickhard@bol.com.br
 
-<h2 id="imagens">Imagens</h2>
+#
 
-### Home
+<h2 id="Tecnologias">🛠️ - Tecnologias empregadas</h2>
+
+- HTML
+- CSS
+
+#
+
+<h2 id="imagens">🖼️ - Imagens</h2>
+
+#
+
+## Home
 <p align="center">
 <img width="500" src="https://user-images.githubusercontent.com/89301596/191340129-e5577b00-e13a-49af-9ec8-9d12696382b1.png">
 </p>
 
 <h4 align="right"><a href="#topo">Topo</a></h4>
 
-### Techs e Contatos
+## Techs e Contatos
 <p align="center">
 <img width="500" src="https://user-images.githubusercontent.com/89301596/191340476-8248e34d-8409-436b-8d5a-39ace3f7f67f.png">
 </p>
 
 <h4 align="right"><a href="#topo">Topo</a></h4>
 
-### Meus Trabalhos (em desenvolvimento...)
+## Meus Trabalhos (em desenvolvimento...)
 
 <p align="center">
 <img width="500" src="https://user-images.githubusercontent.com/89301596/191342304-4ab66755-afe5-46c6-86bf-19dd2ac1b776.png">
@@ -36,7 +48,9 @@ Este foi o projeto do **Portifólio** desenvolvido durante o BootCamp da **AfroA
 
 <h4 align="right"><a href="#topo">Topo</a></h4>
 
-### Responsivo
+#
+
+# Responsivo
 
 <div align="center">
 
