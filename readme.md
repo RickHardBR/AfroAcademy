@@ -6,6 +6,7 @@ Repositório com os trabalhos feitos durante o BootCamp AfroAcademy
     * [Portifólio](https://github.com/RickHardBR/AfroAcademy/tree/master/portifólio)
     * [Desafio01](https://github.com/RickHardBR/AfroAcademy/tree/master/desafio01)
     * [Desafio03](https://github.com/RickHardBR/AfroAcademy/tree/master/desafio03)
+    * [AfroTour](https://github.com/RickHardBR/AfroAcademy/tree/master/AfroTour)
     * [HTML-CSS-JavaScript](https://github.com/RickHardBR/AfroAcademy/tree/master/HTML_CSS_JS)
 
 ## 💛 Contato
