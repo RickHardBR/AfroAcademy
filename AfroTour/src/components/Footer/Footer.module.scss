@@ -1,0 +1,42 @@
+@import '../../styles/colors';
+
+.footerContainer {
+  color: $white;
+  padding: 3.25rem;
+  background-color: $green-700;
+
+  .footerContent {
+    width: 69.5rem;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .iconsFooter {
+    gap: 1rem;
+    display: flex;
+
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      width: 2.5rem;
+      height: 2.5rem;
+
+      border-radius: 1.25rem;
+      transition: 0.2s;
+
+      &:hover {
+        background-color: $green-600;
+      }
+
+      .icons {
+        color: $white;
+        width: 1.25rem;
+        height: 1.25rem;
+      }
+    }
+  }
+}

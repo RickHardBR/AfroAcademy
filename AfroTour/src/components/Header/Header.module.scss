@@ -1,0 +1,22 @@
+@import '../../styles/colors';
+
+.header {
+  font-size: 2rem;
+  background-color: $gray-300;
+
+  div {
+    display: flex;
+    align-items: center;
+
+    width: 71rem;
+    height: 4.5rem;
+    padding: 0 1rem;
+    margin: 0 auto;
+
+    span {
+      font-weight: 700;
+      color: $green-500;
+    }
+  }
+
+}

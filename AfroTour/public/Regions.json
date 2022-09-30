@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+    "title":"sudeste",
+    "image": "https://images.unsplash.com/photo-1619488117232-17224edcfed8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+    "description": "Hístoria - Praia - Ciomidas típicas",
+    "price": 289
+    },
+    {
+    "title":"centro-oeste",
+    "image": "https://images.unsplash.com/photo-1647955343935-668e224503a0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "description": "Passeios - Música ao vivo - Rural",
+    "price": 249
+    },
+    {
+    "title":"norte",
+    "image": "https://images.unsplash.com/photo-1519662115423-29dd20c20fb2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=950&q=80",
+    "description": "Passeios - Aventura - Comidas típicas",
+    "price": 249
+    },
+    {
+    "title":"sul",
+    "image": "https://images.unsplash.com/photo-1639402601965-4f30edcb0a99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+    "description": "Passeios - Hístoria - Churrasco",
+    "price": 259
+    },
+    {
+    "title":"nordeste",
+    "image": "https://images.unsplash.com/photo-1616687794302-8024bc333e77?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80",
+    "description": "Praia - Aventura - Comidas típicas",
+    "price": 269
+    }
+  ]
+}

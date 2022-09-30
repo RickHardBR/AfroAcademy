@@ -1,0 +1,42 @@
+@import '../../styles/colors';
+
+.regionCard {
+  overflow: hidden;
+  border-radius: 8px;
+  list-style-type: none;
+  background-color: $white;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  
+
+  img {
+    width: 35rem;
+    max-height: 10rem;
+    object-fit: cover;
+  }
+
+  > div {
+    gap: 0.5rem;
+    display: flex;
+    padding: 1.5rem 1rem;
+    flex-direction: column;
+
+    h3 {
+      font-size: 1.125rem;
+      text-transform: uppercase;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    p {
+      color: $gray-700;
+    }
+
+    .pricing {
+      font-size: 0.875rem;
+
+      span {
+        color: $green-600;
+        font-weight: 600;
+      }
+    }
+  }
+}
