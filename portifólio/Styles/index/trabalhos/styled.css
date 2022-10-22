@@ -40,6 +40,7 @@
   border: var(--primary);
   transform: translateY(-1rem);
   cursor: pointer;
+  transition: filter 0.2s;
 }
 
 @media screen and (max-width: 1250px){
