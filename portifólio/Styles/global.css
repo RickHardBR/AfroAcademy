@@ -35,7 +35,7 @@ font-family: 'Inter', 'Roboto', sans-serif;
 }
 
 section {
-  border-top: 1px solid var(--border);
+  border-top: 0.0625rem solid var(--border);
 }
 
 h2 {
